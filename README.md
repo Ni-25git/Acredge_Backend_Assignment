@@ -67,12 +67,6 @@ This project is a backend API for property listings, built with Node.js, Express
 - **Environment Configuration:**  
   Sensitive data (like DB credentials) is managed via `.env` and not committed to source control.
 
-## Future Improvements
-
-- Add authentication and authorization.
-- Implement caching for frequently accessed endpoints.
-- Containerize with Docker for easier deployment.
-- Split into microservices for search, recommendations, and property management as the system grows.
 
 ---
 
